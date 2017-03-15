@@ -1,6 +1,6 @@
 <?php
 $config = array(
-   'siteurl' => 'http://www.yunbosou.com', //网站域名
+   'siteurl' => 'http://2best.biz', //网站域名
    'erji' => '/yunbosou/', //二级目录，以 / 结尾，没有二级目录则填 /
    'title' => '云播搜', //网站标题
    'tongji' => '<script src="http://s9.cnzz.com/stat.php?id=5715591&web_id=5715591" language="JavaScript"></script>', //统计代码
